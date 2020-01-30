@@ -644,6 +644,7 @@ class WorldOfWarcraftCommunity extends Service
         return $this->request('/data/guild/achievements', $options);
     }
 
+
     /**
      * Get data item classes
      *
